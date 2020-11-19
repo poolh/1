@@ -1,0 +1,53 @@
+{
+    "info": {
+        "url_png_icon_64x64": "http(s) url to pool icon; not animated; max 40kb",
+        "url_png_logo": "http(s) url to pool logo; not animated; max 50kb",
+        "location": "California, United States",
+        "social": {
+            "twitter_handle": "",
+            "telegram_handle": "",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "Pool as a Service",
+            "addr": "",
+            "city": "San Francisco",
+            "country": "United States",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "IT Consultant and Server administrator with over 15 years of experierce",
+            "server": "Hosted on Digital Ocean VPS with two Relay nodes, and node secured behind firewall and not exposure to the internets.",
+            "company": "Pool as a Service"
+        },
+        "rss": ""
+    },
+    "my-pool-ids": {
+        "0": "f49b57f24d6f2ac5c50819c126e4bbe55567237ba08e52b5d6b418a2"
+    },
+    "when-satured-then-recommend": {
+        "0": "53215c471b7ac752e3ddf8f2c4c1e6ed111857bfaa675d5e31ce8bce"
+    },
+    "telegram-admin-handle": {
+        "0": ""
+    },
+    "adapools_ext": {
+        "prometheus": {
+            "0": {
+                "name": "relay 1 usa",
+                "type": "relay",
+                "key": "relaynode1.adapoolservice.com/connect"
+            },
+            "1": {
+                "name": "relay 2 usa",
+                "type": "relay",
+                "key": "relaynode2.adapoolservice.com/connect"
+            }
+        }
+    }
+}
