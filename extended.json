@@ -21,8 +21,8 @@
             "vat_id": ""
         },
         "about": {
-            "me": "IT Consultant and Server administrator with over 15 years of experierce",
-            "server": "Hosted on Digital Ocean VPS with two Relay nodes, and node secured behind firewall and not exposure to the internets.",
+            "me": "IT Consultant and Data center system administrator with over 15 years of experierce",
+            "server": "Hosted on Digital Ocean VPS with two Relay nodes, and core node secured behind firewall with no exposure to the internets.",
             "company": "Pool as a Service"
         },
         "rss": ""
