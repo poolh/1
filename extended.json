@@ -39,14 +39,14 @@
     "adapools_ext": {
         "prometheus": {
             "0": {
-                "name": "relay 1 usa",
-                "type": "relay",
-                "key": "relaynode1.adapoolservice.com/connect"
+                "name": "PAAS bp usa",
+                "type": "bp",
+                "key": "d13ebbff6733eef9eee2e39830385d9c"
             },
             "1": {
-                "name": "relay 2 usa",
+                "name": "PAAS relay 1 usa",
                 "type": "relay",
-                "key": "relaynode2.adapoolservice.com/connect"
+                "key": "4df65a785ccbf01a5ede285c33dd6cac"
             }
         }
     }
