@@ -39,14 +39,14 @@
     "adapools_ext": {
         "prometheus": {
             "0": {
-                "name": "PAAS bp usa",
-                "type": "bp",
-                "key": ""
-            },
-            "1": {
-                "name": "PAAS relay 1 usa",
+                "name": "PAAS relay1 USA",
                 "type": "relay",
                 "key": "4df65a785ccbf01a5ede285c33dd6cac"
+            },
+            "1": {
+                "name": "PAAS relay 2 usa",
+                "type": "relay",
+                "key": "e521d8d0907e3e094c4a72bf8295b5dc"
             }
         }
     }
