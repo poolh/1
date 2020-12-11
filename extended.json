@@ -22,7 +22,7 @@
         },
         "about": {
             "me": "IT Consultant and Data Center System administrator with over 15 years of experierce",
-            "server": "Hosted on Digital Ocean VPS with two Relay nodes, and core node secured behind firewall with no exposure to the internets.",
+            "server": "BP Hosted on Digital Ocean VPS with two physical Relay nodes, the BP is secured behind a firewall with no exposure to the internet.",
             "company": "Pool as a Service"
         },
         "rss": ""
